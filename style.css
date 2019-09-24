@@ -1,0 +1,259 @@
+header{
+    position:fixed;
+    top:0;
+    left:0;
+    right: 0;
+    background:white;
+    z-index: 1000;
+
+}
+.wrapper{
+    width:80%;
+    margin:auto;
+}
+
+.container{
+    display:grid;
+    grid-template-columns: auto auto;
+}
+
+
+.nav-menu a{
+    color:#a82d49;
+}
+.nav-menu li a{
+    text-decoration: none;
+}
+.nav-menu li{
+list-style: none;
+float:left;
+padding:20px;
+
+}
+.button{
+    padding:10px 20px !important;
+    background-color:rgb(168, 45, 73); 
+    margin-top:10px;
+    
+}
+.button a{
+    color:white;
+}
+.img{
+    background-image: url(http://demo.tutsflow.com/foodera/images/bg/3.jpg);
+}
+.text{ margin-left:174px;
+    padding:300px 0 ;
+}
+.text h1{font-size:40px;
+    color:#43121d;
+
+}
+.text p{font-size:20px;
+    color:#555555;
+    padding-bottom:30px;
+
+}
+.m1{ border:3px  solid orangered !important;
+    padding:20px 25px;
+    text-decoration: none;
+    background-color: #a82d49;
+    color:white;
+}
+.m2{
+    border:3px  solid orangered !important;
+    padding:20px 25px;
+    text-decoration: none;
+    background-color:white;
+    color:#a82d49;
+}
+
+.container1{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    
+}
+.cont{
+    background-color: #a82d49;
+    padding:80px;
+    
+}
+.numb{
+    color:white;
+    font-size:30px;
+    text-align: center;
+}
+.about-img img{border-radius: 10px;
+    
+
+}
+.about{
+    margin-top:100px
+}
+.about-text h1{font-size:32px;
+    color:#43121d;
+}
+.about-text p{ 
+    font-size:16px;
+    color:#555;
+    padding-bottom:30px;
+
+}
+.icon{
+    color:#a82d49
+}
+
+    
+
+.all{ padding:100px;
+    display:grid;
+    grid-template-columns: auto auto;
+}
+.all-img{
+    
+    float: right;
+}
+.all-text{
+    padding-top:50px;
+}
+.all-text h1{ font-size:30px;
+    color:#43121d;
+
+}
+.all-text p{
+    color:#555;
+}
+.icon i{
+    color:#a82d49;
+}
+
+.icon p{
+    color:#555;
+    margin-bottom:30px;
+}
+.nick { 
+    border:3px  solid #a82d49 !important;
+    padding:15px 35px;
+    text-decoration: none;
+    background-color:#a82d49;
+    color:white;
+    
+}
+.poor{padding:80px;
+    text-align: center;
+    background-image: url(http://demo.tutsflow.com/foodera/images/parallax/1.jpg);
+    
+}
+.poor h1{
+    color:#43121d;
+    font-size: 30px;
+}
+.poor p{
+    color:#555;
+    font-size:20px;
+}
+.icon1 a{
+    text-decoration: none;
+    color:#43121d;
+    font-size:17px;
+}
+.explore{text-align: center;
+}
+.explore h1{ 
+    font-size: 36px;
+    color:#43121d;
+    margin-bottom:15px;
+}
+.explore p{
+    color:#555;
+    font-size: 18px;
+}
+.order{ display:flex;
+    width: 33.33%;
+    padding-top:50px;
+}
+.exp-img{
+    border:1px solid white;
+    margin:20px;
+    
+   
+}
+img{
+    border-radius: 10px;
+}
+.exp-img h3{margin-right: 114px;
+    color:#43121d;
+
+}
+.exp-img a{
+    padding:15px 35px;
+    background-color: #a82d49;
+    color:white;
+    text-decoration: none;
+    margin-top:30px;
+    
+}
+.asked{
+    padding:80px;
+}
+.asked h1{
+    text-align: center;
+    font-size: 36px;
+    color:#43121d;
+}
+.icon-qua{
+    float: left;
+    margin-left:50px;
+}
+.icon-qua h3{ font-size:20px;
+    color:#43121d;
+
+}
+.icon-qua p{
+    color:#555;
+    font-size:16px;
+}
+span{
+    color:orange;
+    
+}
+.email{padding:80px;
+    text-align: center;
+}
+.email h1{
+    font-size: 36px;
+    color:#43121d;
+}
+.email p{
+    font-size: 20px;
+    color:#555;
+}
+input{
+    padding:15px 70px;
+    font-size: 20px;
+    
+}
+.email a{ padding:20px 50px;
+    background-color: #a82d49;
+    color:white;
+    text-decoration: none;
+    margin-left:15px;
+
+}
+.footer-li{text-align: center;
+    float:left;
+    list-style: none;;
+}
+.footer ul{
+    text-align: center;
+}
+.footer a{text-align: center;
+    text-decoration: none;
+}
+.icon-sosial{
+    text-align: center;
+    float:left;
+}
+
+
+
